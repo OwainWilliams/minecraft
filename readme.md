@@ -4,7 +4,7 @@ This repo is just a dumping ground for articles, blogs, tutorials, that I've fou
 You are more then welcome to create a fork of this or add a pull request. 
 
 ## Tutorials:
-* [Setting up the Raspberry Pi server](https://www.linuxnorth.org/minecraft/modded_linux.html#Step%209%20-%20Backup%20Your%20Server%20Frequently)
+* [Setting up the Raspberry Pi server](https://www.linuxnorth.org/minecraft/index.html)
 
 * [Setting up Backups](https://www.linuxnorth.org/minecraft/modded_linux.html#Step%209%20-%20Backup%20Your%20Server%20Frequently)
 

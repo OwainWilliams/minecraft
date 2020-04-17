@@ -23,3 +23,4 @@ Even if the mods are on the server, each client needs to have them installed too
 * [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
 * [Advanced Finders](https://www.curseforge.com/minecraft/mc-mods/advanced-finders)
 * [Large Ore Deposits](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits)
+* [Just enough items](https://www.curseforge.com/minecraft/mc-mods/jei/files/2855456)

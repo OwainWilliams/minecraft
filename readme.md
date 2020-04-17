@@ -13,7 +13,7 @@ You are more then welcome to create a fork of this or add a pull request.
 
 ## Moving Mods from PC to Raspberry Pi
 I found [WinScp](https://winscp.net/eng/index.php) perfect for moving the .jar files from Windows to Raspberry Pi. 
-Note: You may need to add 'sudo su -' to the SCP / Shell settings within WinScp to allow for you to copy files to the RPi 
+Note: You may need to add `sudo su -` to the SCP / Shell settings within WinScp to allow for you to copy files to the RPi 
 
 ## Install Forge on Local Windows client to allow for Mods
 Even if the mods are on the server, each client needs to have them installed too.

@@ -20,7 +20,9 @@ Even if the mods are on the server, each client needs to have them installed too
 [How to install mods on Windows](https://www.windowscentral.com/minecraft-java-edition-guide-how-to-install-mods)
 
 ## Mounting USB drive to create nightly backups
-https://www.raspberrypi-spy.co.uk/2014/05/how-to-mount-a-usb-flash-disk-on-the-raspberry-pi/
+*[Mounting USB Drive](https://www.raspberrypi-spy.co.uk/2014/05/how-to-mount-a-usb-flash-disk-on-the-raspberry-pi/)
+
+If you get `broken pipe` error when making a backup, it's because the directory hasn't been created on the usb drive. Make it and then try again. 
 
 ## Mods installed so far : 
 * [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)

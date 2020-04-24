@@ -19,6 +19,9 @@ Note: You may need to add `sudo su -` to the SCP / Shell settings within WinScp 
 Even if the mods are on the server, each client needs to have them installed too.
 [How to install mods on Windows](https://www.windowscentral.com/minecraft-java-edition-guide-how-to-install-mods)
 
+## Mounting USB drive to create nightly backups
+https://www.raspberrypi-spy.co.uk/2014/05/how-to-mount-a-usb-flash-disk-on-the-raspberry-pi/
+
 ## Mods installed so far : 
 * [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
 * [Advanced Finders](https://www.curseforge.com/minecraft/mc-mods/advanced-finders)

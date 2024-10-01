@@ -1,5 +1,5 @@
 # New Server Setup (Oct 2024)
-* For details about the new server I've setup on my PC, [read this file](neoforgeserver.md)
+* For details about the new server I've setup on my PC, [read this file](NeoForgeServer.md)
 
 
 # Minecraft 1.15.2 installation on Raspberry Pi

@@ -1,3 +1,7 @@
+# New Server Setup (Oct 2024)
+* For details about the new server I've setup on my PC, [read this file](neoforgeserver.md)
+
+
 # Minecraft 1.15.2 installation on Raspberry Pi
 This repo is just a dumping ground for articles, blogs, tutorials, that I've found useful when setting up my Raspberry Pi 3 to run a Java Edition Minecraft server. 
 

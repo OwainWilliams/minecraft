@@ -24,5 +24,7 @@ Within your profile, add these mods - making sure you pick the NeoForge versions
 
 - Xaero's World Map
 
+## Playing
+Once you have everything installed, you should launch the game via CurseForge, which will load up the Minecraft Launcher and then you start a game as normal. Make sure to pick Multiplayer, then connect to server. Contact Owain for the ip address.
 
 

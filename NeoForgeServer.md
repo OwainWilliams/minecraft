@@ -13,7 +13,7 @@ Create a new profile within CurseForge and the modloader you want is NeoForge-21
 You'll need to download these mods, using Cureforge once you've created a new profile. 
 Within your profile, add these mods - making sure you pick the NeoForge versions.
 
-   - Advanced Finders 10.0.0.0 (adfinders)
+   	- Advanced Finders 10.0.0.0 (adfinders)
 	-	Collective 7.87 (collective)
 	-	ForgeEndertech 12.0.0.0 (forgeendertech)
 	-	Inventory Tweaks Refoxed 1.21.1-1.2.0 (invtweaks)
@@ -28,6 +28,7 @@ Within your profile, add these mods - making sure you pick the NeoForge versions
 	-	Xaero's Minimap 24.5.0 (xaerominimap)
 	-	Xaero's World Map 1.39.2 (xaeroworldmap)
 	-	Your Items Are Safe 4.5 (youritemsaresafe)
+ 
 ![image](https://github.com/user-attachments/assets/dd3e8beb-d3ee-45c1-9e36-e9d1def4f174)
 
 
